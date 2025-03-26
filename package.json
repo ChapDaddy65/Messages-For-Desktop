@@ -12,7 +12,7 @@
   },
   "build": {
     "appId": "com.messengerfordesktop.app",
-    "productName": "DeskGPT",
+    "productName": "Messenger For Dekstop",
     "directories": {
       "output": "dist"
     },
@@ -37,7 +37,7 @@
       "icon": "icon.png"
     }
   },
-  "keywords": ["chatgpt", "desktop", "electron"],
+  "keywords": ["Google", "Messages", "desktop", "electron"],
   "author": "ChapDaddy65",
   "license": "ISC",
   "devDependencies": {
