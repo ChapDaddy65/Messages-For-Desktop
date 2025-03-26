@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# Compiled build output
+dist/
+build/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables
+.env
+.env.local
+.env.*.local
+
+# Electron-specific cache
+*.asar
+.cache/
+electron-out/
+out/
+
+# VSCode and IDE files
+.vscode/
+.idea/
+
+# Optional: TypeScript
+*.tsbuildinfo
+
+# Optional: macOS code signing artifacts
+*.entitlements
+
+# Optional: test coverage
+coverage/
