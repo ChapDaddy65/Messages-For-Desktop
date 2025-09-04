@@ -41,7 +41,7 @@
   "author": "ChapDaddy65",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^29.1.0",
+    "electron": "^35.7.5",
     "electron-builder": "^24.13.3"
   }
 }
